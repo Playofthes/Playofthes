@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I am Playofthes!
+## I'm a German Developer!
 
 <!--
 **Playofthes/Playofthes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
